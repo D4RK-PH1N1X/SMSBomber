@@ -39,6 +39,7 @@ tool, HTTP attack tool and many other attack tools.
 
 ## Quack installation
 
+> git clone https://github.com/D4RK-PH1N1X/SMSBomber  
 > cd SMSBomber
 
 > chmod +x install.sh
