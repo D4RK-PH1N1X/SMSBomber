@@ -39,7 +39,7 @@ tool, HTTP attack tool and many other attack tools.
 
 ## Quack installation
 
-> cd quack
+> cd SMSBomber
 
 > chmod +x install.sh
 
@@ -47,7 +47,7 @@ tool, HTTP attack tool and many other attack tools.
 
 ## Quack uninstallation
 
-> cd quack
+> cd SMSBomber
 
 > chmod +x uninstall.sh
 
